@@ -11,6 +11,8 @@ This project performs **binary sentiment classification** on Amazon product revi
 
 The project strictly follows the CS-470 course requirements.
 
+This project compares classical machine learning and deep learning models for sentiment analysis on Amazon reviews. After preprocessing and cleaning the text, TF-IDF features were used for SVM, and word embeddings were used for a CNN model. Results show that CNN outperforms SVM across all major evaluation metrics, demonstrating that deep learning models learn contextual information more effectively in text data. The SVM baseline still performed reasonably well and serves as a strong classical comparator. This project successfully meets all course requirements including classical ML, deep learning implementation, comprehensive evaluation, comparative analysis, and professional documentation.
+
 ---
 
 ## 👥 Team Members
