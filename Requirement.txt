@@ -1,4 +1,3 @@
-✅ requirements.txt (Final, Ready to Upload on GitHub)
 numpy
 pandas
 scikit-learn
@@ -12,15 +11,16 @@ keras
 pickle-mixin
 
 📌 Why These Are Included
-Library	Why It’s Needed
-numpy	Required by sklearn, pandas, and neural networks
-pandas	For loading CSV and data preprocessing
-scikit-learn	TF-IDF, train_test_split, SVM, metrics, models
-nltk	Stopwords, tokenization
-matplotlib	Plotting accuracy/loss/wordclouds
-wordcloud	For generating word clouds
-seaborn	For confusion matrix heatmap & other visualizations
-xgboost	You used XGBoost model in comparison
-tensorflow	For CNN deep learning model
-keras	For Tokenizer, Embedding, Conv1D, Sequential model
-pickle-mixin	For saving .pkl models
+
+Library	Why It’s Needed?
+- numpy	Required by sklearn, pandas, and neural networks
+- pandas	For loading CSV and data preprocessing
+- scikit-learn	TF-IDF, train_test_split, SVM, metrics, models
+- nltk	Stopwords, tokenization
+- matplotlib	Plotting accuracy/loss/wordclouds
+- wordcloud	For generating word clouds
+- seaborn	For confusion matrix heatmap & other visualizations
+- xgboost	You used XGBoost model in comparison
+- tensorflow	For CNN deep learning model
+- keras	For Tokenizer, Embedding, Conv1D, Sequential model
+- pickle-mixin	For saving .pkl models
